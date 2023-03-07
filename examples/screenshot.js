@@ -1,5 +1,5 @@
 import process from 'node:process';
-import styles from 'ansi-styles';
+import styles from '#ansi-styles';
 import chalk from '../source/index.js';
 
 // Generates screenshot
